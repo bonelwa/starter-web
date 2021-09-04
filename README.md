@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work Bonelwa adding more text
 ## Introduction
+Boni adding intro text
 
 ## Purpose
 
